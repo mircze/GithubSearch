@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubSearch</string>
+    <string name="search_hint">Enter search query…</string>
+    <string name="search_button_text">Search</string>
+    <string name="message_empty_search">Please enter any query</string>
+    <string name="message_empty_results">No matching results found</string>
+</resources>
